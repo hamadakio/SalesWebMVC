@@ -16,7 +16,7 @@ namespace SalesWebMVC.Models
 
         /// <summary>
         /// Gets or sets the department.
-        /// Fazer Migration depois add DBset
+        /// Fazer Migration depois de add DBset
         /// </summary>
         /// <value>
         /// The department.
